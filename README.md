@@ -28,6 +28,7 @@
 
 This is a blend of skills from my formal education, additional courses, and work experience.
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="120">
@@ -53,7 +54,7 @@ This is a blend of skills from my formal education, additional courses, and work
   </tr>
   <tr>
     <td align="center" width="120">
-      <img src="https://icon2.cleanpng.com/20180809/gfb/kisspng-arduino-max-electronic-circuit-pure-data-oscillosc-arduino-bluetooth-control-google-play-5b6cda38e3f4d0.6548838615338604089337.jpg" width="40" alt="Arduino">
+      <img src="[https://icon2.cleanpng.com/20180809/gfb/kisspng-arduino-max-electronic-circuit-pure-data-oscillosc-arduino-bluetooth-control-google-play-5b6cda38e3f4d0.6548838615338604089337.jpg" width="40" alt="Arduino](https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg)">
       <br /><b>Arduino</b>
     </td>
     <td align="center" width="120">
@@ -74,6 +75,7 @@ This is a blend of skills from my formal education, additional courses, and work
     </td>
   </tr>
 </table>
+</div>
 
 
 
