@@ -2,14 +2,14 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFrcHJteGF6NjI0MWF5eThrcjJjdWdxdmpsc3kxNGJuMzFreW9yciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dzaUX7CAG0Ihi/giphy.gif" width="600" alt="Welcome Banner">
 </p>
 
-<h1 align="center">Hi there, I'm Illia (kvarbulemba) 👋</h1>
+<h1 align="center">Hi there, I'm kvarbulemba 👋</h1>
 
 <p align="center">
-  I'm a <b></b> & <b>Electronics</b> student at <b>NTUU "Igor Sikorsky Kyiv Polytechnic Institute"</b>.
+  I'm an <b></b> & <b>Electronics</b> student.
   <br />
   I am passionate about the intersection of hardware and software, from  programming to PCB design and diagnostics.
 </p>
-
+<!-- 
 <p align="center">
   <a href="https://www.linkedin.com/in/illia-denysenko-aa2056375">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
+-->
 ---
 
 ## 🛠️ My Tech Stack & Skills
