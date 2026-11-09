@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm kvarbulemba 👋</h1>
 
 <p align="center">
-  I'm an <b></b> & <b>Electronics</b> student.
+  I'm an <b></b> <b>Electronics</b> student.
   <br />
   I am passionate about the intersection of hardware and software, from  programming to PCB design and diagnostics.
 </p>
